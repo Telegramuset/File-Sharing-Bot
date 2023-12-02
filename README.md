@@ -1,4 +1,4 @@
-# File-sharing-Bot
+to# File-sharing-Bot
 
 <p align="center">
   <a href="https://www.python.org">
@@ -94,8 +94,8 @@ python3 main.py
 
 ### Variables
 
-* `API_HASH` Your API Hash from my.telegram.org
-* `APP_ID` Your API ID from my.telegram.org
+* `API_HASH` 29ca1e2311efdf950eea03a6ae2bc8ee
+* `APP_ID` 29895250
 * `TG_BOT_TOKEN` 6031147894:AAGwkvUrGP3h72Y8-4PaD_AJupRNtsbkqNk
 * `OWNER_ID` 2017335429
 * `CHANNEL_ID` 1549989753
