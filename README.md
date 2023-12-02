@@ -96,9 +96,9 @@ python3 main.py
 
 * `API_HASH` Your API Hash from my.telegram.org
 * `APP_ID` Your API ID from my.telegram.org
-* `TG_BOT_TOKEN` Your bot token from @BotFather
-* `OWNER_ID` Must enter Your Telegram Id
-* `CHANNEL_ID` Your Channel ID eg:- -100xxxxxxxx
+* `TG_BOT_TOKEN` 6031147894:AAGwkvUrGP3h72Y8-4PaD_AJupRNtsbkqNk
+* `OWNER_ID` 2017335429
+* `CHANNEL_ID` 1549989753
 * `DATABASE_URL` Your mongo db url
 * `DATABASE_NAME` Your mongo db session name
 * `ADMINS` Optional: A space separated list of user_ids of Admins, they can only create links
