@@ -28,8 +28,6 @@ I Guess This Will Be Usefull For Many People.....😇.
 
 ##
 
-**If you need any more modes in repo or If you find out any bugs, mention in [@codexbotzsupport ](https://www.telegram.dog/codexbotzsupport)**
-
 **Make sure to see [contributing.md](https://github.com/CodeXBotz/File-Sharing-Bot/blob/main/CONTRIBUTING.md) for instructions on contributing to the project!**
 
 
@@ -96,7 +94,7 @@ python3 main.py
 
 * `API_HASH` 29ca1e2311efdf950eea03a6ae2bc8ee
 * `APP_ID` 29895250
-* `TG_BOT_TOKEN` 6031147894:AAGwkvUrGP3h72Y8-4PaD_AJupRNtsbkqNk
+* `TG_BOT_TOKEN` 6898562340:AAFKudk4Z53Zak8ou4ofspHTyH__jkdmKW8
 * `OWNER_ID` 2017335429
 * `CHANNEL_ID` 1549989753
 * `DATABASE_URL` Your mongo db url
